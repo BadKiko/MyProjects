@@ -155,6 +155,6 @@ UWidget - является клиент-серверным приложение�
 
 ## 🧑‍💻 Мой вклад 🧑‍💻
 Участвовал в создании report системы, отправляющая всю статистику комнаты в FireStore, а позже репортами можно было управлять с помощью админ панели. Модифицировал дизайн приложения под report систему.
-<img src="https://github.com/BadKiko/MyProjects/blob/main/rvH128nd_4x.jpg?raw=true" alt="screen" width="50%" height="20%"/>
-<img src="https://github.com/BadKiko/MyProjects/blob/main/rvH128nd_4x.jpg?raw=true" alt="screen" width="50%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-16_22-35-08.jpg?raw=true" alt="screen" width="50%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-14_16-11-14.jpg?raw=true" alt="screen" width="20%" height="20%"/>
 
