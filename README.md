@@ -64,6 +64,9 @@ UWidget - является клиент-серверным приложение�
  Сово Практика </a> 
 <img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32"></h1>
 
+
+[![wakatime](https://wakatime.com/badge/user/28a2f792-7e9a-4dd3-97e0-a2515ca044d0/project/8c126fff-ed9e-471d-b59f-039e7630caa0.svg)](https://wakatime.com/badge/user/28a2f792-7e9a-4dd3-97e0-a2515ca044d0/project/8c126fff-ed9e-471d-b59f-039e7630caa0)
+[![wakatime](https://wakatime.com/badge/user/28a2f792-7e9a-4dd3-97e0-a2515ca044d0/project/5ce5591f-d2b7-4e40-abde-8ea4b6c1a6f9.svg)](https://wakatime.com/badge/user/28a2f792-7e9a-4dd3-97e0-a2515ca044d0/project/5ce5591f-d2b7-4e40-abde-8ea4b6c1a6f9)
 ## 📄 Описание 📄
 Создано для ООО «Сова-Нянька»
 
@@ -127,3 +130,12 @@ UWidget - является клиент-серверным приложение�
 [s9]: https://github.com/BadKiko/SovoPractic/blob/master/Screenshot_20220617-083214_%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA.png?raw=true "Скриншот"
 [s10]: https://github.com/BadKiko/SovoPractic/blob/master/Screenshot_20220617-083230_%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA.png?raw=true "Скриншот"
 
+<h1 align="center">
+ <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
+ Мои публичные проекты</a> 
+<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
