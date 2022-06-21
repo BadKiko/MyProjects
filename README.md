@@ -167,7 +167,12 @@ SportHero - это мотивирующее приложение написан�
 - UI Tool: Unity
 
 ## 🎨 Скриншоты 🖌️
-
+<img src="https://github.com/BadKiko/MyProjects/blob/main/new.jpg?raw=true" alt="screen" width="60%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/new2.jpg?raw=true" alt="screen" width="60%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/new3.jpg?raw=true" alt="screen" width="60%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-14_16-11-14.jpg?raw=true" alt="screen" width="60%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/touchscreen - 1.png?raw=true" alt="screen" width="30%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/touchscreen - 103.png?raw=true" alt="screen" width="30%" height="20%"/>
 
 
 
