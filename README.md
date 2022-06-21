@@ -130,6 +130,37 @@ UWidget - является клиент-серверным приложение�
 [s9]: https://github.com/BadKiko/SovoPractic/blob/master/Screenshot_20220617-083214_%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA.png?raw=true "Скриншот"
 [s10]: https://github.com/BadKiko/SovoPractic/blob/master/Screenshot_20220617-083230_%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82-%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B8%D0%BA.png?raw=true "Скриншот"
 
+
+<h1 align="center">
+ <img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32">
+ Sport Hero </a> 
+<img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32"></h1>
+
+## 📄 Описание 📄
+SportHero - это мотивирующее приложение написанное для магазина спорт товаров.
+В приложении имеется ежедневный бонус, игра и 2 квеста
+- Игра является обычным поймай яйцо, но переделанная под стиль магазина спорттоваров
+- Квест 1, является вопрос-ответ, все вопросы берутся с базы данных и генирируют интерфейс
+- Квест 2, выполнить норму продаж, продавец отмечает что он выполнил и ему даются монеты
+В приложении имеется валюта, используемая для покупки товаров в магзине, так же взятых из базы данных
+
+## ♟️ Tech-Stack ♟️
+- БД: *MariaDB*
+- Язык: C#
+- UI Tool: Unity
+
+## 🎨 Скриншоты 🖌️
+<img src="https://github.com/BadKiko/MyProjects/blob/main/1080x1920_2022_06_17_12_40_44.png?raw=true" alt="screen" width="20%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/1080x1920_2022_06_17_12_40_49.png?raw=true" alt="screen" width="20%" height="20%"/>
+
+
+
+
+
+
+
+
+
 <h1 align="center">
  <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
  Мои публичные проекты</a> 
@@ -139,6 +170,8 @@ UWidget - является клиент-серверным приложение�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/NoisePower)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=KITWidget&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/KITWidget)
 
 
 <h1 align="center">
@@ -156,6 +189,7 @@ UWidget - является клиент-серверным приложение�
 ## 🧑‍💻 Мой вклад 🧑‍💻
 Участвовал в создании report системы, отправляющая всю статистику комнаты в FireStore, а позже репортами можно было управлять с помощью админ панели. Модифицировал дизайн приложения под report систему.
 
-<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-16_22-35-08.jpg?raw=true" alt="screen" width="50%" height="20%"/>
-<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-14_16-11-14.jpg?raw=true" alt="screen" width="50%" height="20%"/>
+## 🎨 Скриншоты 🖌️
+<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-16_22-35-08.jpg?raw=true" alt="screen" width="70%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-14_16-11-14.jpg?raw=true" alt="screen" width="30%" height="20%"/>
 
