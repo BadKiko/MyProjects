@@ -139,3 +139,18 @@ UWidget - является клиент-серверным приложение�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/NoisePower)
+
+
+<h1 align="center">
+ <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
+ Проекты в которых я участвовал</a> 
+<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
+
+<h1 align="center">
+ <img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32">
+ TruSo </a> 
+<img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32"></h1>
+
+## 🧑‍💻 Мой вклад 🧑‍💻
+Участвовал в создании report системы, отправляющая всю статистику комнаты в FireStore, а позже репортами можно было управлять с помощью админ панели. Модифицировал дизайн приложения под report систему.
+
