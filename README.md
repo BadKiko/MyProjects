@@ -146,17 +146,27 @@ SportHero - это мотивирующее приложение написан�
 
 ## ♟️ Tech-Stack ♟️
 - БД: *MariaDB*
-- Язык: C#
-- UI Tool: Unity
+- Язык: *C#*
+- UI Tool: *Unity*
 
 ## 🎨 Скриншоты 🖌️
 <img src="https://github.com/BadKiko/MyProjects/blob/main/1080x1920_2022_06_17_12_40_44.png?raw=true" alt="screen" width="20%" height="20%"/>
 <img src="https://github.com/BadKiko/MyProjects/blob/main/1080x1920_2022_06_17_12_40_49.png?raw=true" alt="screen" width="20%" height="20%"/>
 
+<h1 align="center">
+ <img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32">
+ GLOBanner </a> 
+<img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32"></h1>
 
+## 📄 Описание 📄
+Простое приложение баннер для компании GLO, включает в себя софт для автоматического обновления баннера с GitHub релизов из репозитория, а так же слежка за процессом и сворачиванием приложения.
 
+## ♟️ Tech-Stack ♟️
+- Drive: *GitHub* выступает в виде хранилища приложения для обновления баннера
+- Язык: C#
+- UI Tool: Unity
 
-
+## 🎨 Скриншоты 🖌️
 
 
 
@@ -191,5 +201,5 @@ SportHero - это мотивирующее приложение написан�
 
 ## 🎨 Скриншоты 🖌️
 <img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-16_22-35-08.jpg?raw=true" alt="screen" width="70%" height="20%"/>
-<img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-14_16-11-14.jpg?raw=true" alt="screen" width="30%" height="20%"/>
+<img src="https://github.com/BadKiko/MyProjects/blob/main/new4.jpg?raw=true" alt="screen" width="30%" height="20%"/>
 
