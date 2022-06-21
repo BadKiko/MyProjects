@@ -136,6 +136,6 @@ UWidget - является клиент-серверным приложение�
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/NoisePower)
