@@ -208,3 +208,17 @@ SportHero - это мотивирующее приложение написан�
 <img src="https://github.com/BadKiko/MyProjects/blob/main/photo_2021-12-16_22-35-08.jpg?raw=true" alt="screen" width="70%" height="20%"/>
 <img src="https://github.com/BadKiko/MyProjects/blob/main/new4.jpg?raw=true" alt="screen" width="30%" height="20%"/>
 
+
+<h1 align="center">
+ <img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32">
+ WearStore </a> 
+<img src="https://c.tenor.com/MrvBJVe6TRQAAAAi/speed-roll-joba.gif" width="32" height="32"></h1>
+
+<img src="https://raw.githubusercontent.com/BadKiko/MyProjects/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-17%2011-58-23.png?raw=true" alt="screen" width="100%" height="20%"/>
+
+## 🧑‍💻 Мой вклад 🧑‍💻
+Участвовал в создании системы пересылки циферблата с телефона на часы, создатель web view приложения
+
+## 🎨 Скриншоты 🖌️
+<img src="https://raw.githubusercontent.com/BadKiko/MyProjects/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-01-17%2012-01-13.png?raw=true" alt="screen" width="70%" height="20%"/>
+
